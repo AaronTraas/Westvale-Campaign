@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:creation-date>2020-01-27T10:10:15.154800561</meta:creation-date><dc:date>2020-01-28T10:25:02.740143355</dc:date><meta:editing-duration>PT1H15M28S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:generator>LibreOffice/6.1.3.2$MacOSX_X86_64 LibreOffice_project/86daf60bf00efa86ad547e59e09d6bb77c699acb</meta:generator><meta:document-statistic meta:table-count="3" meta:cell-count="257" meta:object-count="0"/><meta:user-defined meta:name=""/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">17862</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">12853</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Lookups">
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">1</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="Spells">
+       <config:config-item config:name="CursorPositionX" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">15</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="Spells per day">
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">12</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Spells</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1521</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsValueHighlightingEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="PrinterName" config:type="string">HP Color LaserJet MFP M477fdw (5DCEF4)</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">5wD+/0hQIENvbG9yIExhc2VySmV0IE1GUCBNNDc3ZmR3ICg1RENFRjQpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASFAgQ29sb3IgTGFzZXJKZXQgTUZQIE00NzdmZHctQQAWAAQABAAAAAAAAAAIAFZUAAAkbQAAAAAAABIAQ09NUEFUX0RVUExFWF9NT0RFEwBEdXBsZXhNb2RlOjpVbmtub3du</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans Narrow" svg:font-family="&apos;Liberation Sans Narrow&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial Unicode MS" svg:font-family="&apos;Arial Unicode MS&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="PingFang SC" svg:font-family="&apos;PingFang SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="36pt"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="en" fo:country="US" style:font-name-asian="PingFang SC" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Arial Unicode MS" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N10104P0" style:volatile="true" number:language="en" number:country="US">
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N10104" number:language="en" number:country="US">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N10104P0"/>
+  </number:currency-style>
+  <number:number-style style:name="N20000" number:language="de" number:country="DE">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="24pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:color="#000000" fo:font-size="18pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:color="#000000" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Text" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Note" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #808080"/>
+   <style:text-properties fo:color="#333333" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#808080" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Hyperlink" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#0000ee" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#0000ee" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Status" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Good" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ccffcc"/>
+   <style:text-properties fo:color="#006600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Neutral" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffffcc"/>
+   <style:text-properties fo:color="#996600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Bad" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffcccc"/>
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Warning" style:family="table-cell" style:parent-style-name="Status">
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Error" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#cc0000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent_20_1" style:display-name="Accent 1" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#000000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_2" style:display-name="Accent 2" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#808080"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#dddddd"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10104">
+   <style:table-cell-properties fo:background-color="#ffcc99" fo:border="0.06pt solid #000000"/>
+   <style:text-properties fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="">
+   <style:table-cell-properties fo:background-color="#ff9966"/>
+   <style:text-properties fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties fo:background-color="#ff9966"/>
+   <style:text-properties fo:color="#000000" fo:font-size="10pt"/>
+  </style:style>
+  <style:style style:name="Background" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#4c1900"/>
+   <style:text-properties fo:color="#c0c0c0"/>
+  </style:style>
+  <style:style style:name="Card" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffcc99" style:text-align-source="fix" style:repeat-content="false" fo:padding-bottom="0.99pt" fo:padding-left="0.99pt" fo:padding-right="9.5pt" fo:padding-top="0.99pt"/>
+   <style:paragraph-properties fo:text-align="end"/>
+   <style:text-properties fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Input" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10104">
+   <style:table-cell-properties style:cell-protect="none" style:print-content="true" style:text-align-source="value-type" style:repeat-content="false" fo:background-color="transparent" fo:border="0.06pt solid #000000" style:shadow="none"/>
+  </style:style>
+  <style:style style:name="Card_20_TL" style:display-name="Card TL" style:family="table-cell" style:parent-style-name="Card">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="0.06pt solid #4c1900" fo:border-right="none" fo:border-top="0.06pt solid #4c1900"/>
+  </style:style>
+  <style:style style:name="Card_20_T" style:display-name="Card T" style:family="table-cell" style:parent-style-name="Card">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="none" fo:border-top="0.06pt solid #4c1900"/>
+  </style:style>
+  <style:style style:name="Card_20_TR" style:display-name="Card TR" style:family="table-cell" style:parent-style-name="Card">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="0.06pt solid #4c1900" fo:border-top="0.06pt solid #4c1900"/>
+  </style:style>
+  <style:style style:name="Card_20_L" style:display-name="Card L" style:family="table-cell" style:parent-style-name="Card">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="0.06pt solid #4c1900" fo:border-right="none" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="Card_20_R" style:display-name="Card R" style:family="table-cell" style:parent-style-name="Card">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="0.06pt solid #4c1900" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="Card_20_B" style:display-name="Card B" style:family="table-cell" style:parent-style-name="Card">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #4c1900" fo:border-left="none" fo:border-right="none" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="Card_20_BL" style:display-name="Card BL" style:family="table-cell" style:parent-style-name="Card">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #4c1900" fo:border-left="0.06pt solid #4c1900" fo:border-right="none" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="Card_20_BR" style:display-name="Card BR" style:family="table-cell" style:parent-style-name="Card">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #4c1900" fo:border-left="none" fo:border-right="0.06pt solid #4c1900" fo:border-top="none"/>
+  </style:style>
+  <style:style style:name="Column_20_Header" style:display-name="Column Header" style:family="table-cell" style:parent-style-name="Card" style:data-style-name="N20000">
+   <style:table-cell-properties fo:background-color="#ff9966" fo:wrap-option="wrap" fo:border="0.06pt solid #000000" fo:padding="0.99pt" style:vertical-align="automatic"/>
+  </style:style>
+  <style:style style:name="Grey" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#eeeeee" loext:vertical-justify="auto"/>
+   <style:paragraph-properties css3t:text-justify="auto"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="15.11pt"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="77.75pt"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="53.01pt"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="138.84pt"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="46.46pt"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="35.86pt"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="64.01pt"/>
+  </style:style>
+  <style:style style:name="co8" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="72.2pt"/>
+  </style:style>
+  <style:style style:name="co9" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="71.69pt"/>
+  </style:style>
+  <style:style style:name="co10" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="38.41pt"/>
+  </style:style>
+  <style:style style:name="co11" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="34.81pt"/>
+  </style:style>
+  <style:style style:name="co12" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="74.21pt"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="12.81pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="18.6pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro3" style:family="table-row">
+   <style:table-row-properties style:row-height="12.95pt" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #000000" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border-left="none" fo:border-right="none" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="8pt" fo:font-style="italic" fo:font-weight="bold" style:font-size-asian="8pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #000000" fo:background-color="transparent" fo:wrap-option="wrap" fo:border-left="none" fo:border-right="none" fo:border-top="none" style:vertical-align="top"/>
+   <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:map style:condition="is-true-formula(ISODD(ROW()))" style:apply-style-name="Grey" style:base-cell-address="Spells.A5"/>
+  </style:style>
+  <style:style style:name="ce30" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="ce31" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="0.06pt solid #000000" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border-left="none" fo:border-right="none" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce33" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce34" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:map style:condition="is-true-formula(ISODD(ROW()))" style:apply-style-name="Grey" style:base-cell-address="Spells.A5"/>
+  </style:style>
+  <style:style style:name="ce35" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:map style:condition="is-true-formula(ISODD(ROW()))" style:apply-style-name="Grey" style:base-cell-address="Spells.A5"/>
+  </style:style>
+  <style:style style:name="ce36" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="ce37" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="ce38" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce39" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:map style:condition="is-true-formula(ISODD(ROW()))" style:apply-style-name="Grey" style:base-cell-address="Spells.A5"/>
+  </style:style>
+  <style:style style:name="ce40" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="ce41" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:map style:condition="is-true-formula(ISODD(ROW()))" style:apply-style-name="Grey" style:base-cell-address="Spells.A5"/>
+  </style:style>
+  <style:style style:name="ce42" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce43" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:map style:condition="is-true-formula(ISODD(ROW()))" style:apply-style-name="Grey" style:base-cell-address="Spells.A5"/>
+  </style:style>
+  <style:style style:name="ce44" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:map style:condition="is-true-formula(ISODD(ROW()))" style:apply-style-name="Grey" style:base-cell-address="Spells.A5"/>
+  </style:style>
+  <style:style style:name="ce45" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:map style:condition="is-true-formula(ISODD(ROW()))" style:apply-style-name="Grey" style:base-cell-address="Spells.A5"/>
+  </style:style>
+  <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties style:font-name="Liberation Sans Narrow" fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+   <style:map style:condition="is-true-formula(ISODD(ROW()))" style:apply-style-name="Grey" style:base-cell-address="Spells.A5"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="8pt" fo:font-weight="bold" style:font-size-asian="8pt" style:font-weight-asian="bold" style:font-size-complex="8pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce49" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent" fo:wrap-option="wrap" style:vertical-align="top"/>
+   <style:text-properties fo:font-size="8pt" style:font-size-asian="8pt" style:font-size-complex="8pt"/>
+  </style:style>
+  <style:style style:name="ce50" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent"/>
+  </style:style>
+  <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce54" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="middle"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="none" fo:border-top="0.06pt solid #000000" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce56" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="middle"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" fo:border-left="none" fo:border-right="none" fo:border-top="0.06pt solid #000000" style:vertical-align="middle"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:border-bottom="none" style:text-align-source="fix" style:repeat-content="false" fo:border-left="none" fo:border-right="none" fo:border-top="0.06pt solid #000000" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="10pt" fo:font-weight="bold" style:font-size-asian="10pt" style:font-weight-asian="bold" style:font-size-complex="10pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0pt"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Tahoma" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Tahoma" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:margin-top="36pt" fo:margin-bottom="36pt" fo:margin-left="36pt" fo:margin-right="36pt" style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="21.6pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.2pt"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="21.6pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.2pt"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="8pt" fo:language="en" fo:country="US" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="PingFang SC" style:font-size-asian="8pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial Unicode MS" style:font-size-complex="8pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="8pt" fo:language="en" fo:country="US" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="PingFang SC" style:font-size-asian="8pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Arial Unicode MS" style:font-size-complex="8pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="italic" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header style:display="false">
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p><text:span text:style-name="T1">* 1 spell memorized of each level </text:span><text:span text:style-name="T2">must</text:span><text:span text:style-name="T1"> be in the transmutation school</text:span></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2020-01-28">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="10:09:42.794878941">00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number><text:s/>/ <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
+   <table:content-validations>
+    <table:content-validation table:name="val1" table:condition="of:cell-content-is-in-list(WizardSchool)" table:allow-empty-cell="true" table:display-list="unsorted" table:base-cell-address="Spells.B1">
+     <table:error-message table:message-type="stop" table:display="true"/>
+    </table:content-validation>
+   </table:content-validations>
+   <table:table table:name="Spells" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce31"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce31"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce40"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce31"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="4" table:default-cell-style-name="ce6"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="ce6"/>
+    <table:table-column table:style-name="co7" table:number-columns-repeated="1014" table:default-cell-style-name="ce31"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>Specialty:</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce36" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce42" office:value-type="string" calcext:value-type="string">
+      <text:p>Forbidden Schools: </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>Necromancy</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce31" table:content-validation-name="val1"/>
+     <table:table-cell table:style-name="ce12" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+      <text:p>Evocation</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce31"/>
+     <table:table-cell table:style-name="ce31"/>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce12" table:number-columns-spanned="9" table:number-rows-spanned="1"/>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:style-name="ce37"/>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:number-columns-repeated="5" table:style-name="ce31"/>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce3"/>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Spell Name</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>School</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Description</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Casting Time</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Range</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Target / area</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Duration</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Save</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce14" table:number-columns-repeated="1014"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce20" table:formula="of:=COM.MICROSOFT.CONCAT([$&apos;Spells per day&apos;.C2];&quot; level spells: &quot;;[$&apos;Spells per day&apos;.C6];&quot; / day*&quot;)" office:value-type="string" office:string-value="0th level spells: 5 / day*" calcext:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1">
+      <text:p>0th level spells: 5 / day*</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:style-name="ce33"/>
+     <table:covered-table-cell table:style-name="ce38"/>
+     <table:covered-table-cell table:number-columns-repeated="6" table:style-name="ce33"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce14" table:number-columns-repeated="1013"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Resistance</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Abjuration</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
+      <text:p>Subject gains +1 on saving throws. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>touch</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 creature</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 min</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Acid Splash</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Conjuration</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Orb deals 1d3 acid damage. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>25’ + 5’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>instant</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Detect Poison</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Divination</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Detects poison in one creature or small object.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>25’ + 5’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 object</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>instant</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Detect Magic</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Divination</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Detects spells and magic items within 60 ft</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>60’</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>cone</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 min/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Read Magic</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Divination</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Read scrolls and spellbooks.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Personal</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>caster</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>10 min/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Daze</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Enchantment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Creature of 4 HD or less loses next action.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>25’ + 5’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 creature</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 round</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Ghost Sound</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Illusion</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Figment sounds. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>25’ + 5’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46"/>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 round/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Mage Hand</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>5-pound telekinesis.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>25’ + 5’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 object, 5lbs</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Concentration</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Mending</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Makes minor repairs on an object.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>10’</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 object, 1lbs</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>instant</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Message</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Whispered conversation at distance.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>100’ + 10’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 creature/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>10 min/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Open/Close</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Opens or closes small or light things.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>25’ + 5’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 object, 30lbs</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>instant</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Arcane Mark</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Universal</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Inscribes a personal rune</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>touch</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 mark</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>permanent</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Prestidigitation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Universal</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Performs minor tricks. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>10’</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>*</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 hour</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>*</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce49" table:number-columns-repeated="1014"/>
+     <table:table-cell table:style-name="ce50"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce30" table:number-columns-spanned="9" table:number-rows-spanned="1"/>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:content-validation-name="val1"/>
+     <table:covered-table-cell table:style-name="ce37"/>
+     <table:covered-table-cell table:number-columns-repeated="5" table:style-name="ce40"/>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce20" table:formula="of:=COM.MICROSOFT.CONCAT([$&apos;Spells per day&apos;.D2];&quot; level spells: &quot;;[$&apos;Spells per day&apos;.D6];&quot; / day*&quot;)" office:value-type="string" office:string-value="1st level spells: 4 / day*" calcext:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1">
+      <text:p>1st level spells: 4 / day*</text:p>
+     </table:table-cell>
+     <table:covered-table-cell/>
+     <table:covered-table-cell table:content-validation-name="val1"/>
+     <table:covered-table-cell table:style-name="ce37"/>
+     <table:covered-table-cell table:number-columns-repeated="5" table:style-name="ce40"/>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Protection from Evil</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce41" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Abjuration</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45" office:value-type="string" calcext:value-type="string">
+      <text:p>+2 to AC and saves, counter mind control</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>touch</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 creature</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 min/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Mage Armor</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Conjuration</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Gives subject +4 armor bonus. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>touch</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 creature</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 hour/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Grease</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Conjuration</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Makes 10-ft. square or one object slippery. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>25’ + 5’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 obj or 10’ sq.</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 round/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>*</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Detect Secret Doors</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Divination</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Reveals hidden doors within 60 ft. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>60’</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>cone</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 min/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Sleep</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Enchantment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Puts 4 HD of creatures into magical slumber. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>100’ + 10’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>10’ radius</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 min/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Animate Rope</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Makes a rope move at your command. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>100’ + 10’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>50’ + 5’/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 round/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>none</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Enlarge Person</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Humanoid creature doubles in size. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 round</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>25’ + 5’/2lv</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 creature</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 min/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Fort neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Jump</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Subject gets bonus on Jump checks. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>touch</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 creature</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 min/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Magic Weapon</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" office:value-type="string" calcext:value-type="string">
+      <text:p>Weapon gains +1 bonus. </text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 std. action</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>touch</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 weapon</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>1 min/lvl</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>Will neg.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1015"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048547">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:content-validation-name="val1"/>
+     <table:table-cell table:number-columns-repeated="1021"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:content-validation-name="val1"/>
+     <table:table-cell table:number-columns-repeated="1021"/>
+    </table:table-row>
+    <calcext:conditional-formats>
+     <calcext:conditional-format calcext:target-range-address="Spells.A5:Spells.I17 Spells.A20:Spells.I28">
+      <calcext:condition calcext:apply-style-name="Grey" calcext:value="formula-is(ISODD(ROW()))" calcext:base-cell-address="Spells.A5"/>
+     </calcext:conditional-format>
+    </calcext:conditional-formats>
+   </table:table>
+   <table:table table:name="Spells per day" table:style-name="ta1">
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce56"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="ce56"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="ce56"/>
+    <table:table-column table:style-name="co11" table:number-columns-repeated="9" table:default-cell-style-name="ce56"/>
+    <table:table-column table:style-name="co7" table:number-columns-repeated="1012" table:default-cell-style-name="ce56"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="12" table:number-rows-spanned="1">
+      <text:p>Spells per Day</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="11" table:style-name="ce54"/>
+     <table:table-cell table:style-name="ce54" table:number-columns-repeated="1012"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce16" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>0th</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>1st</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>2nd</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>3rd</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>4th</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>5th</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>6th</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>7th</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>8th</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
+      <text:p>9th</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce16" table:number-columns-repeated="1012"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
+      <text:p>Caster Level</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8" table:style-name="ce22" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce26" table:number-columns-repeated="1012"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce54" office:value-type="string" calcext:value-type="string">
+      <text:p>Intelligence</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="18" calcext:value-type="float">
+      <text:p>18</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4" table:style-name="ce22" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5" table:style-name="ce22" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1012"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce54" office:value-type="string" calcext:value-type="string">
+      <text:p>Specialty</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:content-validation-name="val1" office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="10" table:style-name="ce22" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1012"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce19" office:value-type="string" calcext:value-type="string">
+      <text:p>Total:</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.C3]&gt;0;SUM([.C3:.C5]);0)" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.D3]&gt;0;SUM([.D3:.D5]);0)" office:value-type="float" office:value="4" calcext:value-type="float">
+      <text:p>4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.E3]&gt;0;SUM([.E3:.E5]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.F3]&gt;0;SUM([.F3:.F5]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.G3]&gt;0;SUM([.G3:.G5]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.H3]&gt;0;SUM([.H3:.H5]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.I3]&gt;0;SUM([.I3:.I5]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.J3]&gt;0;SUM([.J3:.J5]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.K3]&gt;0;SUM([.K3:.K5]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25" table:formula="of:=IF([.L3]&gt;0;SUM([.L3:.L5]);0)" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1012"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048568">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="Lookups" table:style-name="ta1">
+    <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="ce28"/>
+    <table:table-column table:style-name="co7" table:number-columns-repeated="1021" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce27" office:value-type="string" calcext:value-type="string">
+      <text:p>School</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Abjuration</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="1021"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Conjuration</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="1021"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Divination</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="1021"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Enchantment</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Evocation</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Illusion</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Necromancy</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Transmutation</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Universal</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+   <table:database-ranges>
+    <table:database-range table:name="WizardSchool" table:target-range-address="Lookups.A2:Lookups.A10" table:on-update-keep-styles="true" table:on-update-keep-size="false" table:orientation="column"/>
+   </table:database-ranges>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
