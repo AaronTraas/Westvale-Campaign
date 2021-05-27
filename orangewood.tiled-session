@@ -1,0 +1,79 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "manor.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Program Files/Tiled/examples/hexagonal-mini.tmx": {
+            "scale": 3.003436426116838,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.50114416475972,
+                "y": 89.0646453089245
+            }
+        },
+        "C:/Program Files/Tiled/examples/hexagonal-mini.tmx#hex mini": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files/Tiled/examples/perspective_walls.tmx": {
+            "scale": 0.8232734153263954,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 496.79728797977475,
+                "y": 480.3993334865548
+            }
+        },
+        "C:/Program Files/Tiled/examples/perspective_walls.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files/Tiled/examples/sewer_automap/rule_004.tmx": {
+            "scale": 5.179761904761905,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 84.17375316019304,
+                "y": 72.10756148011953
+            }
+        },
+        "C:/Program Files/Tiled/examples/sewer_automap/rule_004.tmx#rules_sewers": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files/Tiled/examples/sewer_automap/rule_004.tmx#sewer_tileset": {
+            "scaleInDock": 1
+        },
+        "C:/Program Files/Tiled/examples/sewers.tmx": {
+            "scale": 0.7251666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 601.241094001379,
+                "y": 600.5515973339462
+            }
+        },
+        "C:/Program Files/Tiled/examples/sewers.tmx#sewer_tileset": {
+            "scaleInDock": 1
+        },
+        "manor.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1363,
+                "y": 1090.5
+            }
+        }
+    },
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": null,
+    "openFiles": [
+        "manor.tmx"
+    ],
+    "project": "orangewood.tiled-project",
+    "recentFiles": [
+        "manor.tmx",
+        "C:/Program Files/Tiled/examples/hexagonal-mini.tmx",
+        "C:/Program Files/Tiled/examples/perspective_walls.tmx",
+        "C:/Program Files/Tiled/examples/sewers.tmx",
+        "C:/Program Files/Tiled/examples/sewer_automap/rule_004.tmx"
+    ]
+}
